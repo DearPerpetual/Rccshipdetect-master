@@ -41,7 +41,7 @@ Running on Ubuntu 18.04 system with pytorch 3.7
 
 # step 2: Download the weight to the root directory weights/ship/Rccshipdet.pth
 
-Model weights and test results download link：https://pan.baidu.com/s/1XBqE1i83e8OoHo6zyLipNw  Extracted code：0gb9
+Model weights download link：https://pan.baidu.com/s/1XBqE1i83e8OoHo6zyLipNw  Extracted code：0gb9
 
 # step 3: Run the following script to obtain detection results in the testing image.
 
