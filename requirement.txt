@@ -1,0 +1,11 @@
+1.numpy
+
+2.opencv
+
+3.scipy
+
+4.torch>=1.7
+
+5.torchvision>=0.8.0
+
+6.tqdm
